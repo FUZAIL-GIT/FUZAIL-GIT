@@ -44,8 +44,14 @@ Looking forward to embarking on this exciting journey with you! 😄
 📫 You can send me an email at 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadfuzailzaman@gmail.com)
 
-
-
 😄 Pronouns... He/Him.
 
 ⚡️ Fun fact... I'm 18 years old and I start coding when I was 14.
+
+## Contact
+
+For any inquiries or feedback, please feel free to contact me at:
+
+[![GitHub FUZAIL-GIT](https://img.shields.io/github/followers/FUZAIL-GIT?label=follow&style=social)](https://github.com/FUZAIL-GIT)
+[![Gmail Badge](https://img.shields.io/badge/-mohammadfuzailzaman@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohammadfuzailzaman@gmail.com)](mailto:mohammadfuzailzaman@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-fuzail-zaman-670731239/)
