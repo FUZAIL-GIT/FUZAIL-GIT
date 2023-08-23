@@ -26,6 +26,9 @@ My expertise spans a range of areas that contribute to crafting holistic and eff
 ## 🔗 Links
 Let's connect and explore the world of technology together! Feel free to reach out to me on 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-fuzail-zaman-670731239/)
+[![Upwork](https://fontawesome.com/icons/upwork?style=brands)](YOUR_UPWORK_PROFILE_URL)
+[![Fiverr](https://fontawesome.com/icons/fiverr?style=brands)](YOUR_FIVERR_PROFILE_URL)
+
 where we can collaborate, share insights, and learn from each other.
 
 Looking forward to embarking on this exciting journey with you! 😄
