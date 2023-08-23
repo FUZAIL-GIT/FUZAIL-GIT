@@ -26,8 +26,6 @@ My expertise spans a range of areas that contribute to crafting holistic and eff
 ## 🔗 Links
 Let's connect and explore the world of technology together! Feel free to reach out to me on 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-fuzail-zaman-670731239/)
-[![Upwork](https://fontawesome.com/icons/upwork?style=brands)](YOUR_UPWORK_PROFILE_URL)
-[![Fiverr](https://fontawesome.com/icons/fiverr?style=brands)](YOUR_FIVERR_PROFILE_URL)
 
 where we can collaborate, share insights, and learn from each other.
 
@@ -58,3 +56,9 @@ For any inquiries or feedback, please feel free to contact me at:
 [![GitHub FUZAIL-GIT](https://img.shields.io/github/followers/FUZAIL-GIT?label=follow&style=social)](https://github.com/FUZAIL-GIT)
 [![Gmail Badge](https://img.shields.io/badge/-mohammadfuzailzaman@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohammadfuzailzaman@gmail.com)](mailto:mohammadfuzailzaman@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-fuzail-zaman-670731239/)
+
+## Freelance Profiles
+
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~019283cbc1dd33861b)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/m_fuzail_zaman?public_mode=true)
+
