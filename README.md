@@ -24,6 +24,12 @@ My expertise spans a range of areas that contribute to crafting holistic and eff
 - **Object-Oriented Programming (OOP)**: Strong foundation in OOP principles, contributing to well-structured and maintainable codebases.
 
 ## 🔗 Links
+
+## Freelance Profiles
+
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~019283cbc1dd33861b)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/m_fuzail_zaman?public_mode=true)
+
 Let's connect and explore the world of technology together! Feel free to reach out to me on 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-fuzail-zaman-670731239/)
 
@@ -57,8 +63,5 @@ For any inquiries or feedback, please feel free to contact me at:
 [![Gmail Badge](https://img.shields.io/badge/-mohammadfuzailzaman@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohammadfuzailzaman@gmail.com)](mailto:mohammadfuzailzaman@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-fuzail-zaman-670731239/)
 
-## Freelance Profiles
 
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~019283cbc1dd33861b)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/m_fuzail_zaman?public_mode=true)
 
