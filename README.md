@@ -12,13 +12,13 @@ My curiosity is piqued by real-world problems, and I thrive on devising solution
 ## 🛠 Skills
 My expertise spans a range of areas that contribute to crafting holistic and effective applications:
 
-- **Flutter**: Proficient in developing cross-platform mobile applications with Flutter, ensuring a consistent user experience across devices.
-- **Cloud Firestore**: Skilled in utilizing Firebase's Cloud Firestore to create scalable and efficient backend solutions.
+- **FLUTTER**: Proficient in developing cross-platform mobile applications with Flutter, ensuring a consistent user experience across devices.
+- **BACKEND**: Experienced in backend development with a focus on Node.js and Express.js using **typescript** and **javascript** for server side development.
+- **FIREBASE**: Skilled in utilizing Firebase's services (Firestore, FCM, Crashlytics, Analytics, Authentication, Storage ..) to create scalable and efficient backend solutions.
 - **UI/UX**: Adept at designing intuitive and visually appealing user interfaces, prioritizing a seamless user experience.
 - **Mobile Interface Design**: Experienced in creating mobile interface designs that marry aesthetics with functionality.
 - **Figma (Software)**: Familiarity with Figma for collaborative design and prototyping.
 - **Front-End Development**: Proficient in front-end development practices that enhance the overall user experience.
-- **Backend**: Experienced in backend development with a focus on Node.js and Express.js.
 - **REST APIs**: Skilled in designing and implementing RESTful APIs to facilitate smooth communication between frontend and backend.
 - **Mobile Application Development**: A year's worth of experience in developing mobile applications that cater to diverse needs.
 - **Object-Oriented Programming (OOP)**: Strong foundation in OOP principles, contributing to well-structured and maintainable codebases.
