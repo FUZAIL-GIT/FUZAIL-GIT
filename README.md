@@ -62,7 +62,7 @@ For any inquiries or feedback, please feel free to contact me at:
 [![GitHub FUZAIL-GIT](https://img.shields.io/github/followers/FUZAIL-GIT?label=follow&style=social)](https://github.com/FUZAIL-GIT)
 [![Gmail Badge](https://img.shields.io/badge/-mohammadfuzailzaman@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohammadfuzailzaman@gmail.com)](mailto:mohammadfuzailzaman@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-fuzail-zaman-670731239/)
-[![Stackoverflow](https://img.shields.io/stackexchange/:stackexchangesite/r/)](https://stackoverflow.com/users/19914951/mohammad-fuzail-zaman)
+
 
 
 
