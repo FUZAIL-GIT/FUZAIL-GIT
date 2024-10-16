@@ -1,6 +1,6 @@
 # Hi, I'm Mohammad Fuzail Zaman! 👋
 
-Welcome to my GitHub profile! I'm a dedicated Flutter developer with over a year of experience in mobile application development. I also possess skills in Node.js backend development and have effectively utilized Firebase as a backend service. My journey in software development has been shaped by my involvement in diverse projects for clients. Currently, I'm focusing on bolstering my professional profile by actively working on personal projects and streamlining repetitive tasks through automation.
+Welcome to my GitHub profile! I'm a dedicated Flutter developer with over 4 years of experience in mobile application development. I also possess skills in Node.js backend development and have effectively utilized Firebase as a backend service. My journey in software development has been shaped by my involvement in diverse projects for clients. Currently, I'm focusing on bolstering my professional profile by actively working on personal projects and streamlining repetitive tasks through automation.
 
 ## 🚀 About Me
 Hello there, I'm Mohammad Fuzail Zaman—a Flutter enthusiast and developer. With a solid foundation of over a year in mobile app development, I have honed my skills to craft seamless and user-centric applications. Beyond my expertise in Flutter, I've also ventured into the realm of backend development, specializing in Node.js. My backend proficiency is further enhanced by my adeptness at leveraging Firebase—a versatile backend service.
