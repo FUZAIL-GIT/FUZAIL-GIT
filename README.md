@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a dedicated Flutter developer with over 4 year
 ## 🚀 About Me
 Hello there, I'm Mohammad Fuzail Zaman—a Flutter enthusiast and developer. With a solid foundation of over a year in mobile app development, I have honed my skills to craft seamless and user-centric applications. Beyond my expertise in Flutter, I've also ventured into the realm of backend development, specializing in Node.js. My backend proficiency is further enhanced by my adeptness at leveraging Firebase—a versatile backend service.
 
-<a href="https://stackexchange.com/users/26240574"><img src="https://stackexchange.com/users/flair/26240574.png" width="208" height="58" alt="profile for MOHAMMAD FUZAIL ZAMAN on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for MOHAMMAD FUZAIL ZAMAN on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<a href="https://stackoverflow.com/users/19914951/mohammad-fuzail-zaman"><img src="https://stackoverflow.com/users/flair/19914951.png" width="208" height="58" alt="profile for MOHAMMAD FUZAIL ZAMAN at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for MOHAMMAD FUZAIL ZAMAN at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 My journey is defined by my experiences in collaborating with clients on projects that span various domains. My current endeavor revolves around enriching my portfolio by dedicating time to personal projects. A strong advocate for efficiency, I'm passionate about automating repetitive tasks, freeing up time for creativity and innovation.
 
